@@ -1,2 +1,2 @@
-# exercios_ebac
-Exercícios da EBAC - Curso de Teste de Software
+# Exercícios da EBAC - Curso de Teste de Software
+
