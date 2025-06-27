@@ -7,7 +7,7 @@
 
 ## 🎯 Objetivo
 
-O objetivo dessa atividade era analisar a qualidade do relógio Samsung Galaxy Watch 4, por meio de uma abordagem crítica da matéria prima, design, acabamento, usabilidade, durabilidade, performance, feita a partir da experiência de usuário do equipamento por 2 anos.
+O objetivo dessa atividade era analisar a qualidade do relógio Samsung Galaxy Watch 4, por meio de uma abordagem crítica da matéria prima, design, acabamento, usabilidade, durabilidade, performance, feita a partir da experiência de usuário do equipamento por 30 dias.
 A proposta integra o **Módulo 2: Curso de Teste de Software | EBAC**, com foco em desenvolver habilidades práticas na elaboração de relatórios de análise qualitativa.
 
 ---
