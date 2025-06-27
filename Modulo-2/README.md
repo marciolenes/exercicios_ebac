@@ -12,7 +12,6 @@ A proposta integra o **Módulo 2: Curso de Teste de Software | EBAC**, com foco 
 
 ---
 
-
 ## 🔍 Produto analisado
 
 - **Nome:** Relógio Galaxy Watch 4 
@@ -21,9 +20,11 @@ A proposta integra o **Módulo 2: Curso de Teste de Software | EBAC**, com foco 
 - **Pontos fortes:** Design elegante, recursos avançados de saúde  
 - **Ponto fraco:** Duração da bateria
 
+---
+
   ## 📎 Documento
 
-- [`tarefa-7-times-ageis.pdf`](./Exercicio-de-Analise-de-Qualidade.pdf)
+- [`Exercicio-de-Analise-de-Qualidade.pdf`](./Exercicio-de-Analise-de-Qualidade.pdf)
 
----
+
 
