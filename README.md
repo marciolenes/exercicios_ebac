@@ -7,7 +7,7 @@ A cada módulo, são aplicados conceitos de análise, testes, documentação e q
 
 ## 📂 Módulos
 
-### 🔹 [Módulo 2 – Análise de Qualidade de Produto](./Módulo-2/README.md)
+### 🔹 [Módulo 2 – Análise de Qualidade de Produto](./modulo-2/README.md)
 Projeto de análise de qualidade do **relógio Samsung Galaxy Watch 4**, demonstrando percepções a partir do uso dele. 
 
 <!-- 
