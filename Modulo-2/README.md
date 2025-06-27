@@ -16,7 +16,7 @@ A proposta integra o **Módulo 2: Curso de Teste de Software | EBAC**, com foco 
 
 - **Nome:** Relógio Galaxy Watch 4 
 - **Marca:** Samsung  
-- **Tempo de uso:** 2 anos  
+- **Tempo de uso:** 30 Dias  
 - **Pontos fortes:** Design elegante, recursos avançados de saúde  
 - **Ponto fraco:** Duração da bateria
 
