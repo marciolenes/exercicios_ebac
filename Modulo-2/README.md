@@ -1,21 +1,22 @@
 ### 📚 ATIVIDADE EBAC  
 **Curso:** Teste de Software  
 **Módulo:** 2 – Análise de qualidade de um produto ou serviço  
-**Produto escolhido:** Loção Noturna Desodorante Corporal Nativa SPA Orquídea Noire – O Boticário
+**Produto escolhido:** Relógio Samsung Galaxy Watch 4
 
 ---
 
 ## 🎯 Objetivo
 
-Esta atividade tem como objetivo analisar a qualidade do produto **Loção Noturna Desodorante Corporal Nativa SPA Orquídea Noire**, da marca **O Boticário**, por meio de uma abordagem crítica baseada em usabilidade, composição, embalagem, eficácia, sensorial e performance. O estudo busca aplicar conceitos de **auditoria de qualidade**, desenvolvendo um olhar técnico e criterioso voltado à experiência do usuário final. A proposta integra o **Módulo 2 do Curso de Teste de Software da EBAC**, com foco em desenvolver habilidades práticas na elaboração de relatórios de análise qualitativa.
+O objetivo dessa atividade era analisar a qualidade do relógio Samsung Galaxy Watch 4, por meio de uma abordagem crítica da matéria prima, design, acabamento, usabilidade, durabilidade, performance, feita a partir da experiência de usuário do equipamento por 2 anos.
+A proposta integra o **Módulo 2: Curso de Teste de Software | EBAC**, com foco em desenvolver habilidades práticas na elaboração de relatórios de análise qualitativa.
 
 ---
 
 
 ## 🔍 Produto analisado
 
-- **Nome:** Loção Noturna Desodorante Corporal Nativa SPA Orquídea Noire  
-- **Marca:** O Boticário  
-- **Tempo de uso:** 30 dias  
-- **Pontos fortes:** Hidratação intensa e perfume duradouro  
-- **Ponto fraco:** Embalagem dificulta o uso total do produto
+- **Nome:** Relógio Galaxy Watch 4 
+- **Marca:** Samsung  
+- **Tempo de uso:** 2 anos  
+- **Pontos fortes:** Design elegante, recursos avançados de saúde  
+- **Ponto fraco:** Duração da bateria
